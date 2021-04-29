@@ -1,4 +1,8 @@
 body {
   background: orange;
-  color:red;
+  color: red;
+}
+
+a {
+  color: purple;
 }
