@@ -3,10 +3,10 @@ body {
   background-color: #f8f7f2;
 }
 
-@font-face {
-  font-family: myFirstFont;
-  src: url(https://fonts.google.com/specimen/Alex+Brush#standard-styles);
+a:hover {
+   color:black;
 }
+
 
 /*Very top of the page*/
 h1 {
@@ -24,7 +24,7 @@ p, blockquote, dd {
 /*Headings for subsections*/
 h3, dt{
   color:brown;
-  font-family: 'myFirstFont';
+  font-family: 'fantasy', 'Papyrus';
 
 }
 
