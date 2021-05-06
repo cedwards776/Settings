@@ -11,7 +11,7 @@ h1 {
 }
 
 /*Paragraphs*/
-p, blockquote, ul {
+p, blockquote {
   font-family:'Serif', 'Garamond';
   color:#6d412a;
 }
@@ -21,4 +21,12 @@ h3 {
   color:#6d412a;
   font-family: 'fantasy', 'Papyrus';
 
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: upper-roman;
 }
