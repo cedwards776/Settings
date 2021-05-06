@@ -25,8 +25,16 @@ h3 {
 
 ul {
   list-style-type: circle;
+  margin: ;
+  padding: 0;
 }
 
 ol {
   list-style-type: upper-roman;
+  margin: 35px;
+  padding: 5px;
+}
+
+dl{
+  color:#6d412a;
 }
