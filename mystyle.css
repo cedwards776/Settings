@@ -40,7 +40,12 @@ ol {
   padding: 5px;
 }
 
-a:link.nav{
-  color:#f8f7f2;
+
+nav {
   font-family: 'fantasy', 'papyrus';
+}
+
+dt.bold {
+  font-family: 'fantasy', 'papyrus';
+  font-size: large;
 }
