@@ -11,13 +11,13 @@ h1 {
 }
 
 /*Paragraphs*/
-p, blockquote {
+p, blockquote, dd {
   font-family:'Serif', 'Garamond';
   color:#6d412a;
 }
 
 /*Headings for subsections*/
-h3 {
+h3, dt{
   color:#6d412a;
   font-family: 'fantasy', 'Papyrus';
 
@@ -35,12 +35,9 @@ ol {
   padding: 5px;
 }
 
-dl{
-  color:#6d412a;
-}
-
 nav {
   background-color:#98a1a0;
+  color:#f8f7f2;
   margin:10px;
   padding: 10px;
   font-family: 'fantasy', 'Papyrus';
