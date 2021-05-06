@@ -47,10 +47,10 @@ nav {
 
 dt.bold {
   font-family: 'fantasy', 'papyrus';
-  font-size: large;
+  font-size: larger;
 }
 
 p.bigger {
-  font-size:large;
+  font-size:larger;
   font-family: 'fantasy','papyrus';
 }
