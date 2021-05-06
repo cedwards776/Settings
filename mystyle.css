@@ -49,3 +49,8 @@ dt.bold {
   font-family: 'fantasy', 'papyrus';
   font-size: large;
 }
+
+p.bigger {
+  font-size:large;
+  font-family: 'fantasy','papyrus';
+}
