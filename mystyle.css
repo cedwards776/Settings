@@ -11,11 +11,12 @@ h1 {
 }
 
 p {
-  font-family:'Courier New', Courier, monospace;
+  font-family:'Serif', 'Garamond';
   color:#6d412a
 }
 
 h3 {
   color:#6d412a
+  font-family: 'fantasy', 'Papyrus';
 
 }
