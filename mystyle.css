@@ -38,3 +38,9 @@ ol {
 dl{
   color:#6d412a;
 }
+
+nav {
+  margin:10px;
+  padding: 10px;
+  font-family: 'fantasy', 'Papyrus';
+}
