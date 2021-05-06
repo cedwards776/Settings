@@ -3,20 +3,22 @@ body {
   background-color: #f8f7f2;
 }
 
-
+/*Very top of the page*/
 h1 {
   color: #6d412a;
   text-align:center;
   font-family: 'fantasy', 'Papyrus';
 }
 
-p {
+/*Paragraphs*/
+p, blockquote {
   font-family:'Serif', 'Garamond';
-  color:#6d412a
+  color:#6d412a;
 }
 
+/*Headings for subsections*/
 h3 {
-  color:#6d412a
+  color:#6d412a;
   font-family: 'fantasy', 'Papyrus';
 
 }
